@@ -17,7 +17,7 @@ permissions:
   contents: read
 
 jobs:
-  build:
+  build: gradle/wrapper/gradle-wrapper.properties;distributionUrl=https\:/services.gradle.org/distributions/gradle-8.3-bin.zip
 
     runs-on: ubuntu-latest
 
