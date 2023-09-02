@@ -1,6 +1,7 @@
 # BankBridge: Your Complete Banking Management System
 
 BankBridge is a powerful banking management system that makes use of Java SWING graphical interfaces and a robust MySQL database. It is designed to handle all data and records related to bank accounts and customers, with a wide range of features for customers, bankers, and administrators.
+d7468c0
 
 Customers can easily view their account balances and banking accounts linked to them, while bankers have access to all banking accounts in the database and can perform various banking operations such as deposits, withdrawals, and transfers. Administrators have complete control over the system, allowing them to manage both banking accounts and user accounts. They can search through them, modify them, delete them, or add new ones as needed.
 
